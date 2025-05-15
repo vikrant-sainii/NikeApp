@@ -1,16 +1,45 @@
-# ideathon
+# 🏃 Nike Shoe App
 
-A new Flutter project.
+A sleek, modern Flutter-based mobile application that showcases Nike shoes in an intuitive UI. The app is designed with smooth transitions, responsive design, and performance in mind—perfect for practicing Flutter animations, state management, and UI layout.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+Home Screen - 
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1468" alt="Screenshot 2025-05-04 at 11 20 41 AM" src="https://github.com/user-attachments/assets/e637d7a6-4980-42aa-b877-01817e155ed3" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Shoe Detail - 
+
+<img width="1468" alt="Screenshot 2025-05-04 at 11 20 12 AM" src="https://github.com/user-attachments/assets/8703b785-1586-4810-9188-f9790a6214f1" />
+
+
+
+Cart Page -
+
+<img width="1470" alt="Screenshot 2025-05-04 at 11 21 03 AM" src="https://github.com/user-attachments/assets/b23a57ea-319c-4292-ad86-b80d53e87622" />
+
+
+
+✨ Features
+
+Interactive shoe catalog
+Add to cart & checkout UI
+Smooth animations & transitions
+lean architecture and scalable codebase
+
+🚀 Getting Started
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio or Xcode (depending on your platform)
+- A connected emulator or physical device
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/nike-shoe-app.git
+cd nike-shoe-app
+flutter pub get
+flutter run
